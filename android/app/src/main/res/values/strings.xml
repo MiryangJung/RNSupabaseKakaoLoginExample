@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RNSupabaseKakaoLoginExample</string>
+    <string name="kakao_app_key">NEED_TO_REPLACE</string>
 </resources>
