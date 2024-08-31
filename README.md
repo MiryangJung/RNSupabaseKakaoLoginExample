@@ -4,7 +4,7 @@ How to implement Supabase Kakao Login in ReactNative
 
 This example is written based on `Android`.
 
-Detailed guidelines can be found in the [article](https://miryang.dev/blog/how-to-implement-supabase-kakao-login-in-rn).
+Detailed guidelines can be found in the [article: ReactNative에서 Supabase Kakao Login하는 방법](https://miryang.dev/blog/how-to-implement-supabase-kakao-login-in-rn).
 
 For places where keys should be entered, I have written `NEED_TO_REPLACE`.
 
